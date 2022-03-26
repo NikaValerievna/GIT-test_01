@@ -1,3 +1,3 @@
-First edit
+First edit for Master
 
-Second edit - hotfix
+Second edit for hotfix
